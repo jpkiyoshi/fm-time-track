@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+	height: 100vh;
+	padding: 50px;
+}
+
+body {
+	min-height: 100vh;
+	background-color: hsl(226, 43%, 10%);
+	font-family: 'Rubik', sans-serif;
+}
