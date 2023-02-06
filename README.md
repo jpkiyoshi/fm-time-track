@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Solution](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw/hub)
+-   Live Site URL: [Live Site](https://joaop-fm-time-track.netlify.app/)
 
 ## My process
 
